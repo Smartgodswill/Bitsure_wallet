@@ -1,0 +1,11 @@
+Bitsure Wallet — Secure Custodial Crypto Wallet
+
+Bitsure Wallet is a reliable and user-friendly custodial crypto wallet built to make digital asset management simple, secure, and accessible to everyone. With Bitsure, users don’t need to worry about managing private keys or handling complex blockchain operations — we handle the security and infrastructure so you can focus on using your assets with confidence.
+
+Bitsure supports popular cryptocurrencies such as Bitcoin and USDT, enabling you to store, send, and receive funds instantly. The wallet is designed with ease of use in mind, offering a clean and intuitive interface that works smoothly across devices. Whether you are new to crypto or already experienced, Bitsure provides a hassle-free experience without sacrificing security.
+
+Security is at the core of Bitsure Wallet. We use industry-grade encryption, multi-layer access controls, and strict custodial safeguards to protect user funds. Every action within the app is monitored, authenticated, and protected against unauthorized access, ensuring that your assets remain safe at all times.
+
+Bitsure is not just a storage tool — it is a financial bridge into the digital economy. Our goal is to provide a fast, dependable, and modern wallet solution that enables everyday crypto usage for payments, transfers, savings, and investment purposes.
+
+Whether you are managing small daily balances or large portfolios, Bitsure Wallet delivers the convenience of a custodial service backed by strong technology, clear design, and trustworthy security.
